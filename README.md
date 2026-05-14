@@ -1,4 +1,4 @@
-# ThreatLens
+# Intel-Bot
 
 AI-powered Threat Intelligence Platform.
 Ingests 35+ security feeds, extracts structured intelligence automatically.
